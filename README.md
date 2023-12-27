@@ -79,27 +79,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://github.com/OJane1/egg-timer/blob/main/public/Capture%20d%E2%80%99e%CC%81cran%202023-12-27%20a%CC%80%2017.20.34.png?raw=true" alt="screenshot">
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+This is a learning project that showcases a usage of multiple timers on one page. It is a simple web-page. 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* [JavaScript](https://www.javascript.com/)
+* [HTML](https://html.com/html5/)
+* [CSS](https://css3.com/)
 
 
 <!-- GETTING STARTED -->
